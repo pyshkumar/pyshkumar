@@ -5,7 +5,7 @@
 I'm PIyush Kumar from India, and I do content on web development. I really enjoy learning languages and frameworks like Exprees and Node, as well as Bootstrap.
 I really enjoy making new and exciting stuff. 
 
-Skills: EXPRESS / EJS / JS / HTML / CSS/ C++/ BOOTSTRAP / REACT
+Skills: REACT / EJS / JS / HTML / CSS / C++ / C / BOOTSTRAP / JAVASCRIPT / EXPRESS / JAVA / NEXT.js / TAILWIND  
 
 - 🔭 I’m currently working on A education based Web Application  
 - 🌱 I’m currently learning React
