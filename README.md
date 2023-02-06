@@ -9,9 +9,9 @@ Skills: REACT / EJS / JS / HTML / CSS / C++ / C / BOOTSTRAP / JAVASCRIPT / EXPRE
 
 - 🔭 I’m currently working on A education based Web Application  
 - 🌱 I’m currently learning React
-- 📫 How to reach me: piyushkkumarr@outlook.com 
+- 📫 How to reach me: kpiyush39@gmail.com
 
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pyshkumar) -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/piyush---kumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Piyush_kmar)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pyshkumar)  -->
+-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/piyush---kumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Piyush_kmar)  
 
