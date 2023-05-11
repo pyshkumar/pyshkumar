@@ -1,4 +1,4 @@
-### Hi there 👋, <h2>Piyush Kumar</h2>
+### Hi there 👋, Piyush Kumar here
 #### Development and Coding
 ![Development and Coding](https://pbs.twimg.com/profile_banners/1552087092326309888/1658886539/1500x500)
 
