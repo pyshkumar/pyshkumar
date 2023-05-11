@@ -2,13 +2,15 @@
 #### Development and Coding
 ![Development and Coding](https://pbs.twimg.com/profile_banners/1552087092326309888/1658886539/1500x500)
 
-I'm PIyush Kumar from India, and I do content on web development. I really enjoy learning languages and frameworks like Next.js and Node, as well as Tailwind CSS.
+I'm Piyush Kumar from India, and I create content related to web development. I thoroughly enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow
 I really enjoy making new and exciting stuff. 
 
-Skills: REACT / NEXT.js / EJS / JS / HTML / CSS / C++ / C / BOOTSTRAP / JAVASCRIPT / EXPRESS / JAVA  / TAILWIND  
+Skills: / TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TYPESCRIPT / JAVASCRIPT / NODE.js / HTML / CSS /  
 
-- 🔭 I’m currently working on A education based Web Application  
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a iamge classifier web app. 
+- 🌱 I’m currently learning Convilution Neural Network.
+- 👯 I’m looking to collaborate on designing and implementing user-friendly website.
+- ⚡ Fun fact prompt engineers are real!
 - 📫 How to reach me: kpiyush39@gmail.com
 
 
