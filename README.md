@@ -5,11 +5,11 @@
 I'm Piyush Kumar from India, and I create content related to web development. I thoroughly enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow
 I really enjoy making new and exciting stuff. 
 
-Skills: / TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TYPESCRIPT / JAVASCRIPT / NODE.js / HTML / CSS /  
+Skills: TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TYPESCRIPT / JAVASCRIPT / NODE.js
 
 - 🔭 I’m currently working on a iamge classifier web app. 
 - 🌱 I’m currently learning Convilution Neural Network.
-- 👯 I’m looking to collaborate on designing and implementing user-friendly website.
+- 👯 I’m looking to collaborate on designing and implementing a website from scratch.
 - ⚡ Fun fact prompt engineers are real!
 - 📫 How to reach me: kpiyush39@gmail.com
 
