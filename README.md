@@ -2,9 +2,7 @@
 #### Development and Coding
 ![Development and Coding](https://pbs.twimg.com/profile_banners/1552087092326309888/1658886539/1500x500)
 
-I'm Piyush Kumar from India, and I create content related to web development. I thoroughly enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow.
-
-I really enjoy making new and exciting stuff. 
+I am Piyush Kumar from India, and I create content related to web development. I enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow, and creating new and exciting things.
 
 Skills:  TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TYPESCRIPT / JAVASCRIPT / NODE.js
 
