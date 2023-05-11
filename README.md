@@ -7,7 +7,7 @@ I really enjoy making new and exciting stuff.
 
 Skills: TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TYPESCRIPT / JAVASCRIPT / NODE.js
 
-- 🔭 I’m currently working on a iamge classifier web app. 
+- 🔭 I’m currently working on a Iamge Classifier web app. 
 - 🌱 I’m currently learning Convilution Neural Network.
 - 👯 I’m looking to collaborate on designing and implementing a website from scratch.
 - ⚡ Fun fact prompt engineers are real!
