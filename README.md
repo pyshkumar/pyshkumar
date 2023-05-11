@@ -9,8 +9,8 @@ Skills:  TENSORFLOW / C++ / C / JAVA / REACT / VERCEL / TAILWIND / FIREBASE / TY
 - 🔭 I’m currently working on a Iamge Classifier web app. 
 - 🌱 I’m currently learning Convilution Neural Network.
 - 👯 I’m looking to collaborate on designing and implementing a website from scratch.
-- ⚡ Fun fact prompt engineers are real!
-- 📫 How to reach me: kpiyush39@gmail.com
+- ⚡ Fun fact: prompt engineers are real!
+- 📫 How to reach me: piyushkkumarr@outlook.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pyshkumar) 
