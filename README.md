@@ -7,7 +7,7 @@ I am Piyush Kumar from India, and I create content related to web development. I
 
 - 🔭 I’m currently working on a Image Classifier web app. 
 - 🌱 I’m currently learning Convilution Neural Network.
-- 👯 I’m looking to collaborate on designing and implementing a website from scratch.
+- 👯 I’m looking to collaborate on designing and implementing a user-friendly web app from scratch.
 - ⚡ Fun fact: prompt engineers are real!
 - 📫 How to reach me: piyushkkumarr@outlook.com
 
