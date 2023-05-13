@@ -6,7 +6,7 @@
 I am Piyush Kumar from India, and I create content related to web development. I enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow, and creating new and exciting things.
 
 - 🔭 I’m currently working on a Image Classifier web app. 
-- 🌱 I’m currently learning Convilution Neural Network.
+- 🌱 I’m currently learning Convolution Neural Network.
 - 👯 I’m looking to collaborate on designing and implementing a user-friendly web app from scratch.
 - ⚡ Fun fact: prompt engineers are real!
 - 📫 How to reach me: piyushkkumarr@outlook.com
