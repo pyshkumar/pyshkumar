@@ -3,7 +3,7 @@
 ![Development and Coding](https://pbs.twimg.com/profile_banners/1552087092326309888/1658886539/1500x500)
 
 # 💫 About Me:
-I am Piyush Kumar from India, and I create content related to web development. I enjoy learning new languages and frameworks such as React, Node.js, Tailwind, and Tensorflow, and creating new and exciting things.
+I am Piyush Kumar from India, and I consider myself a proactive, flexible, responsible and eager to learn person. I enjoy learning new languages and frameworks such as React, Three.js, Tensorflow and more, creating new and exciting things.
 
 - 🔭 My website -> https://portfolio-2-0-six-hazel.vercel.app/ 
 - 🌱 I’m currently learning three.js.
