@@ -5,7 +5,8 @@
 # 💫 About Me:
 I am Piyush Kumar from India, and I consider myself a proactive, flexible, responsible and eager to learn person. I enjoy learning new languages and frameworks such as React, Three.js, Tensorflow and more, creating new and exciting things.
 
-- 🔭 My website -> https://portfolio-2-0-six-hazel.vercel.app/ 
+- 🔭 My website -> https://portfolio-2-0-six-hazel.vercel.app/
+- 🔭 My website -> [![myWebsite](https://portfolio-2-0-six-hazel.vercel.app/)]
 - 🌱 I’m currently learning three.js.
 - 👯 I’m looking to collaborate on designing and implementing a user-friendly web app from scratch.
 - ⚡ Fun fact: prompt engineers are real!
