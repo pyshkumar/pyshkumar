@@ -7,7 +7,7 @@ I am Piyush Kumar from India, and am proactive learner. I enjoy learning new lan
 
 - 🔭 My website -> [myWebsite](https://portfolio-2-0-six-hazel.vercel.app/)
 - 🌱 I’m currently learning three.js.
-- 👯 I’m looking to collaborate on designing and implementing a user-friendly web app.
+- 👯 I'm seeking exciting collaborations to create and develop an intuitive web application.
 - ⚡ Fun fact: prompt engineers are real!
 - 📫 How to reach me: piyushkkumarr@outlook.com
 
